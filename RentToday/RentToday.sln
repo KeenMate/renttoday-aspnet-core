@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentToday.Web", "RentToday.Web\RentToday.Web.csproj", "{BAFD01B3-E843-4D2C-9C01-A6CD35A98085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentToday.Data", "RentToday.Data\RentToday.Data.csproj", "{37963961-3DCA-49FC-949F-928703AA4822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentToday.Providers", "RentToday.Providers\RentToday.Providers.csproj", "{27B02361-41BD-406A-A063-281FB5704A3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFD01B3-E843-4D2C-9C01-A6CD35A98085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFD01B3-E843-4D2C-9C01-A6CD35A98085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFD01B3-E843-4D2C-9C01-A6CD35A98085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFD01B3-E843-4D2C-9C01-A6CD35A98085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37963961-3DCA-49FC-949F-928703AA4822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37963961-3DCA-49FC-949F-928703AA4822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37963961-3DCA-49FC-949F-928703AA4822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37963961-3DCA-49FC-949F-928703AA4822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B02361-41BD-406A-A063-281FB5704A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B02361-41BD-406A-A063-281FB5704A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B02361-41BD-406A-A063-281FB5704A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B02361-41BD-406A-A063-281FB5704A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
